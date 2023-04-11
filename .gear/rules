@@ -1,0 +1,2 @@
+tar.gz: scrcpy
+zip: scrcpy-server name=scrcpy-server-v@version@ base= suffix=
